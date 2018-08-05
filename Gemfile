@@ -9,4 +9,5 @@ gem 'http'
 gem 'json'
 gem 'faye-websocket'
 gem 'eventmachine'
+gem 'rspotify'
 # gem "rails"
